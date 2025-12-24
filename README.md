@@ -35,7 +35,7 @@ A lightweight, asynchronous, and memory-optimized localization system for Unity 
 
 ### 2. Unity Configuration (.unitypackage)
 
-1. **Import the Package:** - Download the `ardat11_Localization.unitypackage` from the [Releases](#) section.
+1. **Import the Package:** - Download the `ardat11_Localization.unitypackage` from the Package folder
    - Drag and drop the package into your Unity Project or go to `Assets > Import Package > Custom Package`.
    - Ensure all scripts, prefabs, and the Resources folder are selected.
 
