@@ -10,7 +10,6 @@ A lightweight, asynchronous, and memory-optimized localization system for Unity 
 ## 🚀 Unity 6 Features
 
 * **Multi-Sheet Support:** Seamlessly merge multiple Google Sheets tabs into one local database.
-* **Unity 6 Optimized:** Uses updated `Object.FindObjectsByType` for better performance during UI refreshes.
 * **Async Synchronization:** Non-blocking download process using Editor update callbacks.
 * **Memory Efficient:** High-performance `Dictionary<string, string[]>` architecture for low RAM overhead.
 * **Regex-Safe Parsing:** Supports cells containing commas and quotes without breaking the CSV structure.
